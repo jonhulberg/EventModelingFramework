@@ -1,0 +1,1 @@
+Event modeling framework to be run inside container for RGES PIT Modeling. See [Greg Olmschenk's containerization guide](https://golmschenk.github.io/nena_component_tools/containerization_guide/index.html).
